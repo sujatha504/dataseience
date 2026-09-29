@@ -1,6 +1,4 @@
 
-Weather1Data.txt
-100%
 id,outlook,temperature,humidity,windy,play
 1,sunny,hot,high,FALSE,no
 2,sunny,hot,high,TRUE,no
